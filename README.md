@@ -3,7 +3,7 @@
 
 Bad hunting provides one-click access to smart dorking, archives, subdomain/DNS tools, cloud/config search, and secret/token scanners for any given target. Everything runs client-side; no backend required.
 
-🌐 **Live Demo:** [https://Yasserr257.github.io/bad-hunting/](https://Yasserr257.github.io/bad-hunting/)
+🌐 **Live Demo:** [https://yasserr257.github.io/Bad-Hunting/](https://yasserr257.github.io/Bad-Hunting/)
 
 ---
 
@@ -15,7 +15,6 @@ Bad hunting provides one-click access to smart dorking, archives, subdomain/DNS 
 * **☁️ Cloud & Config:** Google Drive/Groups discovery and CSP Evaluator.
 * **🔑 Secrets & Tokens:** JWT auditor, JS secret scanners, and favicon hash lookups.
 * **📖 Dork References & External Engines:** Direct access to LeakIX, Shodan, FOFA Search, and Chaos (ProjectDiscovery).
-* **🔌 SCOPTIX Integration:** Optional hooks into a local SCOPTIX instance (localhost:3000).
 
 ---
 
@@ -37,17 +36,6 @@ The VirusTotal lookups require a personal API key.
 
 ---
 
-## 🛠️ Deploying to GitHub Pages
-
-Want to host your own instance for free?
-
-1. Create a new repository named `bad-hunting` on your GitHub account.
-2. Upload the `index.html` file to the repository's root.
-3. Go to **Settings** → **Pages**.
-4. Under "Build and deployment", set **Source** to `Deploy from a branch`, choose the `main` branch, and set the folder to `/ (root)`.
-5. Click **Save**. Your dashboard will be live at `https://Yasserr257.github.io/bad-hunting/` within a couple of minutes!
-
----
 
 ## ⚠️ Disclaimer
 
